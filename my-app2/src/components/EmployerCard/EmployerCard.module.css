@@ -1,0 +1,10 @@
+.employer_container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.employer_img {
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+}

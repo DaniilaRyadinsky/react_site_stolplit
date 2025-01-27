@@ -1,0 +1,44 @@
+
+.tovar_container {
+    display: flex;
+    flex-direction: row;
+}
+
+.main_img{
+    width: 500px;
+    border-radius: 20px;
+    margin-right: 40px;
+}
+
+.down{
+    padding-left: 20px;
+}
+
+
+.name {
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 30px;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.options {
+    color: #505050;
+    font-size: 14px;
+}
+
+.button {
+    font-size: 24px;
+    font-weight: 200;
+    background-color: #fff;
+    padding: 15px 30px 15px 30px;
+    border: 2px solid #0C6DE2;
+    border-radius: 20px;
+    color: #505050;
+}

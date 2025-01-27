@@ -1,0 +1,26 @@
+.shops_title {
+    display: flex;
+    padding-left: 40px;
+    gap: 10px;
+}
+
+.name_container {
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+}
+
+.adress_container {
+    width: 400px;
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+}
+
+.hours_container {
+    padding: 10px 10px 10px 10px;
+    font-weight: 700;
+}
+
+.shop_list {
+    margin-bottom: 30px;
+}

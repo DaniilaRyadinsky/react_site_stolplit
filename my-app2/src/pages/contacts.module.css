@@ -1,0 +1,34 @@
+.contacts {
+
+}
+
+.contact_form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.contact_form_item {
+    width: 400px;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.contact_form_text {
+    width: 400px;
+    font-size: 20px;
+    padding: 10px 10px 10px 10px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.contact_form_button {
+    width: 400px;
+    font-size: large;
+    padding: 10px 10px 10px 10px;
+}
+
+.contacts_container {
+    margin-bottom: 20px;
+}

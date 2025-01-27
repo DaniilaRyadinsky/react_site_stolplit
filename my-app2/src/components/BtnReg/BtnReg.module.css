@@ -1,0 +1,19 @@
+
+
+
+.btn_reg {
+    display: block;
+    padding: 13px 20px 13px 20px;
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--color-hotel);
+    background-color: var(--white);
+    border: 1px solid var(--color-hotel);
+    border-radius: 15px;
+    line-height: 100%;
+}
+
+.btn_reg:active {
+    background-color: #0C6DE2;
+    color: #fff;
+}

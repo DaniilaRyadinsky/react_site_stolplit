@@ -1,0 +1,16 @@
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 280px;
+    background-color: #fff;
+    font-size: 24px;
+}
+
+.input {
+    padding: 7px 0px 7px 17px;
+    height: 34px;
+    border: none;
+    border-bottom: 1px solid #000;
+    font-size: 18px;
+}

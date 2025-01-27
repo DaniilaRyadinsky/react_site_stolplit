@@ -1,0 +1,138 @@
+.content {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.navbar__list {
+    list-style: none;
+    padding-left: 0;
+    width: 50px;
+}
+
+.zad2 {
+    margin-right: auto;
+}
+
+.zad2_img {
+    width: 150px;
+    float: left;
+    margin-right: 20px;
+}
+
+.content_title {
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.content_text {
+    font-size: 20px;
+}
+
+.employer_container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.employer_img {
+    width: 100px;
+    float: left;
+    margin-right: 30px;
+}
+
+.navbar {
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #ff8000;
+}
+
+.banners {
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: #ff8000;
+}
+
+.card_unit {
+    display: flex;
+    margin-bottom: 25px;
+}
+
+.card_img {
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.card_name {
+    text-decoration: none;
+    font-size: large;
+    color: #000;
+    font-weight: 700;
+}
+
+.card_pice {
+    font-size: larger;
+    font-weight: 600;
+}
+
+.card_unit_description_container {
+    margin-top: auto;
+}
+
+
+.content_card_unit {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content_card_img {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    margin-right: 20px;
+}
+
+.card_text_list2 {
+    list-style: circle;
+}
+
+.contact_form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact_form_item {
+    width: 400px;
+    font-size: large;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+}
+
+.contact_form_text {
+    font-size: large;
+    padding: 10px 10px 10px 10px;
+    height: 100px;
+}
+
+.contact_form_button {
+    font-size: large;
+    padding: 10px 10px 10px 10px;
+}
+
+.contacts_container {
+    margin-bottom: 20px;
+}
+
+footer {
+    padding: 20px 50px 20px 20px;
+    background-color: #ffae42;
+}
+
+.footer_text {}

@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 20px 10px;
+}
+
+.main_title_container {
+    margin-right: auto;
+}
+
+.logo_container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.logo {
+    width: 200px;
+    margin-right: 20px;
+}

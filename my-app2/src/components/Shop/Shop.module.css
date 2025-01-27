@@ -1,0 +1,22 @@
+.item {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    border-bottom: 1px solid var(--light-grey);
+}
+
+.name_container {
+    width: 200px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.adress_container {
+    width: 400px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+.hours_container {
+    padding: 10px 10px 10px 10px;
+}

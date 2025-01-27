@@ -1,0 +1,8 @@
+.banners_list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.banner_img {
+    width: 100px;
+}
